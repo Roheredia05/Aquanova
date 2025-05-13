@@ -86,8 +86,8 @@ header {
 }
 
 .imagen-prototipo {
-  width: 200%;
-  max-width: 500px;
+  width: 110%;
+  max-width: 420px;
   height: auto;
   border-radius: 10px;
 }
